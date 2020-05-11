@@ -1,0 +1,26 @@
+{
+  "name": "quick-docsify",
+  "version": "1.0.2",
+  "description": "> 基于 docsify 的快速文档系统构建框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jingping-ye/quick-docsify.git"
+  },
+  "keywords": [
+    "doscsify",
+    "quick-docsify",
+    "quick",
+    "docs"
+  ],
+  "author": "jingping.ye",
+  "email": "1104639669@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jingping-ye/quick-docsify/issues"
+  },
+  "homepage": "https://github.com/jingping-ye/quick-docsify#readme"
+}

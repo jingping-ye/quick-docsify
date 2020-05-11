@@ -2,3 +2,6 @@
 - **接口示例**
   - [申请资源保存](/article/申请资源保存)
   - [申请资源提交](/article/申请资源提交)
+- [图片显示](/article/图片)
+- [vue 组件](/article/vue组件)
+- [结合 vueb](/article/结合vueb)
