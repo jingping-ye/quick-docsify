@@ -37,5 +37,9 @@ docsify serve
 
 ## 更多关于 docsify 请参考以下链接:
 
-- [docsify 中文文档](https://jingping-ye.github.io/docsify-docs-zh/#/)
+- [docsify 中文文档||人肉搬运，且看且珍惜](https://jingping-ye.github.io/docsify-docs-zh/#/)
 - [docsify 官方文档](https://docsify.js.org/)
+
+## 示例(Example)
+
+[quick-docsify示例](https://jingping-ye.github.io/quick-docsify/#/README)

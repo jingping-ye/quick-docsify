@@ -1,6 +1,6 @@
 {
   "name": "quick-docsify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> 基于 docsify 的快速文档系统构建框架",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,5 @@
   "bugs": {
     "url": "https://github.com/jingping-ye/quick-docsify/issues"
   },
-  "homepage": "https://github.com/jingping-ye/quick-docsify#readme"
+  "homepage": "https://jingping-ye.github.io/quick-docsify/#/"
 }
